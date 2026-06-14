@@ -20,7 +20,9 @@ Computer Science student with a Nursing background transitioning into backend en
 I enjoy building backend systems, working with data, and exploring how software can be applied in healthcare and bioinformatics.
 
 My Current Stack: Python, FastAPI, Postman, Pydantic, PostgreSQL/MySQl, SQLalchemy, Alembic.
+
 Currently revisiting: HTML/CSS/JavaScript, Linux/Unix.
+
 Eager to Learn: Docker, AWS, Jenkins.
 
 Feel free to check out my repositories or reach out if you'd like to collaborate.
