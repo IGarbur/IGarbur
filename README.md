@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 4X Provincial Wrestling Champion, Western Canada Games 2X Bronze Medalist, Pilot Glider Scholarship receiver.
 -->
+My Current Stack: Python, FastAPI, Postman, Pydantic, PostgreSQL/MySQl, SQLalchemy, Alembic.
+Currently revisiting: HTML/CSS/JavaScript, Linux/Unix.
+Eager to Learn: Docker, AWS, Jenkins.
